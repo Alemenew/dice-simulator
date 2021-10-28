@@ -1,6 +1,6 @@
 import random
 
-print ("this is the dice simulator")
+print ("This is dice Game do you want to play")
 x = "y"
 while x == "y":
     number = random.randint(1,6)
@@ -43,4 +43,4 @@ while x == "y":
         print ('| O       O  |')
         print ('--------------')
 
-    x = input ("enter y to continue or enter any key to exit")
+    x = input ("Enter y to continue or Enter any key to exite : ")
