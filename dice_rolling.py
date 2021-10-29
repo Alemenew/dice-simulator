@@ -1,6 +1,7 @@
 import random
 
 print ("This is dice Game do you want to play")
+print ("You can play and enjoy it ")
 x = "y"
 while x == "y":
     number = random.randint(1,6)
